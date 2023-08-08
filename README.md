@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://wampi.ru/image/RIiuuwV" width="726" alt="Диаграмма распределения деятельностей по паркам Москвы">
+      <img src="https://im.wampi.ru/2023/08/08/i.png" width="726" alt="Диаграмма распределения деятельностей по паркам Москвы">
 </p>
 
 ## О Проекте
